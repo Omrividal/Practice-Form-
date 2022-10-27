@@ -33,7 +33,12 @@ form {
   margin: 15px auto 15px;
 }
 
-form label {
+fieldset {
+  border: none;
+}
+
+form label,
+form legend {
   color: #fff;
 }
 
